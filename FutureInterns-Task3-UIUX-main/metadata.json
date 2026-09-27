@@ -1,0 +1,6 @@
+{
+  "name": "PixelPulse Agency CRM Dashboard",
+  "description": "A professional CRM and client management dashboard for digital agencies and consulting teams to track leads, manage active clients, and coordinate tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
